@@ -54,6 +54,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mTvMovie = (TextView) findViewById(R.id.tv_movie);
         mTvDiscovery = (TextView) findViewById(R.id.tv_discovery);
         mTvMore = (TextView) findViewById(R.id.tv_more);
+//        hahaaaaaad
+//        hahaaaaaad
+//        hahaaaaaad
     }
 
     @Override
