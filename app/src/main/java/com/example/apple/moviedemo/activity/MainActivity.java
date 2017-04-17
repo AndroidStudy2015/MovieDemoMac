@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.tv_home:
                 select(1);
                 Toast.makeText(this, "111", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "111", Toast.LENGTH_SHORT).show();
 
                 break;
 
